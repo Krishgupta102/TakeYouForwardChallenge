@@ -2,6 +2,23 @@
 
 A highly polished, responsive, and visually impressive calendar component built using **Next.js**, **TypeScript**, and **Tailwind CSS**. Designed specifically with the aesthetic of a physical hanging wall calendar, this project fulfills the Frontend Engineering Challenge requirements.
 
+## 📸 Preview
+
+### Desktop
+![Desktop Preview](./public/desktop.png)
+
+### Mobile
+![Mobile Preview](./public/mobile.png)
+
+## 🛠️ Tech Stack
+
+- Next.js
+- TypeScript
+- Tailwind CSS
+- date-fns
+- clsx
+- tailwind-merge
+
 ## 🚀 Getting Started
 
 ### Installation
